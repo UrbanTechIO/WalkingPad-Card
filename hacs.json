@@ -1,4 +1,5 @@
 {
   "name": "Kingsmith WalkingPad Card",
-  "render_readme": true
+  "render_readme": true,
+  "filename": "kingsmith-card.js"
 }
